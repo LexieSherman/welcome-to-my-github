@@ -1,4 +1,4 @@
-# welcome-to-my-github
+# Welcome-To-My-Github
 An introduction to my GitHub. Showcasing my journey in data science, cybersecurity, and automation. Stay tuned for projects and learning resources!
 # Hi there, I'm Lexie Sherman 👋  
 
